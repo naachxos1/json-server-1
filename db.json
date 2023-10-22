@@ -2,67 +2,67 @@
   "api": [
     {
       "id": 1,
-      "nombre": " profesor1",
-      "email": " profesor1@profesor.duoc.cl",
-      "tipo": " @profesor.duoc.cl",
+      "nombre": "profesor1",
+      "email": "profesor1@profesor.duoc.cl",
+      "tipo": "@profesor.duoc.cl",
       "password": "123456"
     },
     {
       "id": 2,
-      "nombre": " profesor2",
-      "email": " profesor2@profesor.duoc.cl",
-      "tipo": " @profesor.duoc.cl",
+      "nombre": "profesor2",
+      "email": "profesor2@profesor.duoc.cl",
+      "tipo": "@profesor.duoc.cl",
       "password": "123456"
     },
     {
       "id": 3,
-      "nombre": " profesor3",
-      "email": " profesor3@profesor.duoc.cl",
-      "tipo": " @profesor.duoc.cl",
+      "nombre": "profesor3",
+      "email": "profesor3@profesor.duoc.cl",
+      "tipo": "@profesor.duoc.cl",
       "password": "123456"
     },
     {
       "id": 4,
-      "nombre": "  alumno1",
-      "email": "  alumno1@duocuc.cl",
-      "tipo": " @duocuc.cl",
+      "nombre": "alumno1",
+      "email": "alumno1@duocuc.cl",
+      "tipo": "@duocuc.cl",
       "password": "123456"
     },
     {
       "id": 5,
-      "nombre": "  alumno2",
-      "email": "  alumno2@duocuc.cl",
-      "tipo": " @duocuc.cl",
+      "nombre": "alumno2",
+      "email": "alumno2@duocuc.cl",
+      "tipo": "@duocuc.cl",
       "password": "123456"
     },
     {
       "id": 6,
-      "nombre": "  alumno3",
-      "email": "  alumno3@duocuc.cl",
-      "tipo": " @duocuc.cl",
+      "nombre": "alumno3",
+      "email": "alumno3@duocuc.cl",
+      "tipo": "@duocuc.cl",
       "password": "123456"
     }
   ],
   "data": [
     {
       "id": 1,
-      "nombre": " jeje",
+      "nombre": "jeje",
       "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
       "titulo": " Correo 1",
       "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
     },
     {
       "id": 2,
-      "nombre": " jeje",
+      "nombre": "jeje",
       "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
-      "titulo": " Correo 1",
+      "titulo": "Correo 1",
       "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
     },
     {
       "id": 3,
-      "nombre": " jeje",
+      "nombre": "jeje",
       "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
-      "titulo": " Correo 1",
+      "titulo": "Correo 1",
       "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
     },
     {
