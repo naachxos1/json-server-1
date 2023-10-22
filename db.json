@@ -1,0 +1,107 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "nombre": " profesor1",
+      "email": " profesor1@profesor.duoc.cl",
+      "tipo": " @profesor.duoc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "nombre": " profesor2",
+      "email": " profesor2@profesor.duoc.cl",
+      "tipo": " @profesor.duoc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "nombre": " profesor3",
+      "email": " profesor3@profesor.duoc.cl",
+      "tipo": " @profesor.duoc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "nombre": "  alumno1",
+      "email": "  alumno1@duocuc.cl",
+      "tipo": " @duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "nombre": "  alumno2",
+      "email": "  alumno2@duocuc.cl",
+      "tipo": " @duocuc.cl",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "nombre": "  alumno3",
+      "email": "  alumno3@duocuc.cl",
+      "tipo": " @duocuc.cl",
+      "password": "123456"
+    }
+  ],
+  "data": [
+    {
+      "id": 1,
+      "nombre": " jeje",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
+      "titulo": " Correo 1",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 2,
+      "nombre": " jeje",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
+      "titulo": " Correo 1",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 3,
+      "nombre": " jeje",
+      "imagen": "https://media.cnn.com/api/v1/images/stellar/prod/200126210422-27-kobe-bryant-gallery-restricted.jpg?q=x_3,y_0,h_1403,w_2494,c_crop/w_800",
+      "titulo": " Correo 1",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "nombre": "gg",
+      "genero": "jj",
+      "mensaje": "ggg",
+      "id": 7
+    }
+  ],
+  "mensajes-alumno": [
+    {
+      "id": 1,
+      "titulo": " Correo 1",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 2,
+      "titulo": " Correo 2",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 3,
+      "titulo": " Correo 3",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 4,
+      "titulo": " Correo 4",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 5,
+      "titulo": " Correo 5",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    },
+    {
+      "id": 6,
+      "titulo": " Correo 6",
+      "comentario": "jashdkhaash ajhkjahdjk ajksbdjkhasbd25 ajkhdajkhd 55 jahsdkjahsd"
+    }
+  ]
+}
