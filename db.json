@@ -42,6 +42,98 @@
       "tipo": "@duocuc.cl",
       "password": "123456"
     }
+    {
+      "id": 7,
+      "nombre": "alumno4",
+      "email": "alumno4@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 8,
+      "nombre": "alumno5",
+      "email": "alumno5@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 9,
+      "nombre": "alumno6",
+      "email": "alumno6@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 10,
+      "nombre": "alumno7",
+      "email": "alumno7@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 11,
+      "nombre": "alumno8",
+      "email": "alumno8@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 12,
+      "nombre": "alumno9",
+      "email": "alumno9@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 13,
+      "nombre": "alumno10",
+      "email": "alumno10@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 14,
+      "nombre": "alumno11",
+      "email": "alumno11@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 15,
+      "nombre": "alumno12",
+      "email": "alumno12@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 16,
+      "nombre": "alumno13",
+      "email": "alumno13@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 17,
+      "nombre": "alumno14",
+      "email": "alumno14@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 19,
+      "nombre": "alumno15",
+      "email": "alumno15@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    {
+      "id": 20,
+      "nombre": "alumno16",
+      "email": "alumno17@duocuc.cl",
+      "tipo": "@duocuc.cl",
+      "password": "123456"
+    }
+    
   ],
   "data": [
     {
